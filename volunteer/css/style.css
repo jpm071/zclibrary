@@ -1,0 +1,83 @@
+body {
+	font-size: 15px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+nav ul {
+	align-self: center;
+	position: fixed;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #2d3436;
+	display: table;
+	width: 99%;
+	font-weight: bolder;
+}
+
+.blog h1 {
+	color: white;
+	text-align: center;
+}
+
+.blog {
+	color: #0A0756;
+	padding-left: 1%;
+	line-height: 25px;
+}
+
+nav li {
+	display: table-cell
+}
+
+li a {
+	transition:.3s;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px 30px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #4d4d4d;
+}
+
+h2 a {
+	padding: 33px 25px;
+	color: white;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	background-color: #4d4d4d;
+}
+
+header {
+	color: #0A0756;
+	padding-top: 70px;
+	margin-left: 14px;
+}
+
+footer {
+	position: absolute;
+	width: 99%;
+	bottom: 0px;
+}
+
+footer p {
+	color: #2d3436;
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+footer a {
+	color: white;
+	text-decoration: none;
+	text-align: left;
+	width: 100%;
+}
