@@ -48,7 +48,7 @@ if (isset($_POST['submit'])) {
 	
 			else {
 				if($row['userType'] == "admin"){
-					header("location: ../php/admin/admin.php");
+					header("location: ../php/admin/home.php");
 					exit();
 				}
 				elseif($row['userType'] == "cataloger"){
