@@ -1,25 +1,15 @@
-# How to Make Multi User Role Based Login Form in PHP and MySQL
+## This is our project in Software Engineering 2
 
-version: 1.0.0
+## Web-based Zamboanga City Library Management System
 
-### UserName : elias
+# version: 1.0.0
 
-### Password : 1234
+# Created By:
+#    Chimera Tech Solutions
 
-### UserType : Admin
+# Project Manager & Business Analysts: Jeus Golero
 
-### ---------------------------------
+# Lead Developer & UI/UX Designer: Chryz Eduard Mamugos
 
-### UserName : john
-
-### Password : abcd
-
-### UserType : user
-
-## Full Tutorial
-
-[On Youtube](https://youtu.be/-8q3GLkr9Ts)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+# Quality Assurance Engineer: John Paul Madroñal
+# Asst UI/UX Designer: John Paul Madroñal
